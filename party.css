@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:lightcoral ;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+    color: #9e4244;
+    border: 1px solid #9e4244;
+    background-color: wheat;
+}
+
+h1{
+    background-color: wheat;
+    color: #9e4244 ;
+    font-size: 45px;
+    text-align: center;
+}
+
+footer {
+   background-color:wheat;
+}
+
+footer p {
+   background-color:wheat ;
+   color: #9e4244;
+   padding: 10px;
+}
+
+nav {
+  ,margin: 20px;
+  padding: 10px;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #FE7F9C;
+    border: 5px solid #FC4C4E;
+    border-radius: 10px;
+    background-color: #FC4C4E;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.popular{
+    background-color: white;
+    color: royalblue;
+}
+
+.Products{
+    background-color:#F26B8A ;
+    border:10px solid #F25278 ;
+    border-radius:5px ;
+    color:#9e4244 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pinky{
+   background-color: #F26B8A;
+}
+
+#discount {
+    color: pink;
+}
